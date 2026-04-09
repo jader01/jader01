@@ -1,4 +1,4 @@
-# Github de [Jade] [Rueda Lucantis]
+# Github de Jade Rueda Lucantis
 
 Bienvenue sur mon github dédié à mes projets effectué lors de mes années de **BUT réseaux télécoms**.
 
