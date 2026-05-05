@@ -69,13 +69,8 @@ Une série d'exercices pratiques d'apprentissage et de perfectionnement en déve
 
 Un grand **merci à mes binômes durant mes années de BUT** ! Ces projets n'auraient pas été les mêmes sans eux !
 
-Une mention spéciale à ceux qui m'ont beaucoup aidée et énormément appris sur la programmation lorsque nous étions en binôme :
-* XanderBuilds [✨](https://github.com/XanderBuilds)
-* baba33mrt [✨](https://github.com/baba33mrt)
+Une mention spéciale à ceux qui m'ont beaucoup aidée et énormément appris sur la programmation lorsque nous étions en binôme : [✨](https://github.com/XanderBuilds) [✨](https://github.com/baba33mrt)
 
-À mon acolyte avec qui j'ai pas mal travaillé sur ces projets :
-* CPTHOMBO [✨](https://github.com/CPTHOMBO)
+À mon acolyte avec qui j'ai pas mal travaillé sur ces projets : [✨](https://github.com/CPTHOMBO)
 
-Et enfin, un merci tout particulier à ceux avec qui je n'ai pas été en binôme, mais qui m'ont tout de même apporté une aide précieuse :
-* xeylou [✨](https://github.com/xeylou)
-* MyneTiik [✨](https://github.com/MyneTiik)
+Et enfin, un merci tout particulier à ceux avec qui je n'ai pas été en binôme, mais qui m'ont tout de même apporté une aide précieuse : [✨](https://github.com/xeylou) [✨](https://github.com/MyneTiik)
