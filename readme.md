@@ -28,7 +28,7 @@ Création d'une version basique du célèbre jeu rétro Casse-Brique.
 Une application web développée en **PHP** reposant sur une **architecture MVC**. 
 * **Fonctionnalités :** Gestion complète de tickets, clients et projets avec un système de droits et de rôles (ex : administrateur, utilisateur).
 * 🔗 [Lien vers le dépôt](https://github.com/jader01/SAE-502)
-* Avec l'aide de [✨](https://github.com/XanderBuilds)
+* Avec l'aide de [✨](https://github.com/XanderBuilds), en binome avec : [✨](https://github.com/CPTHOMBO)
 
 ### 📊 Analyse de Logs et Data Visualization (SAE15)
 Analyse des données d'un fichier log contenant les ventes d'un site web d'albums afin d'en comprendre la structure.
